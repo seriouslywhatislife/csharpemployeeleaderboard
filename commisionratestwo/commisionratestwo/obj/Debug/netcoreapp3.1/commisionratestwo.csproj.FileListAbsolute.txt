@@ -1,0 +1,13 @@
+\\ccnpcfs01.campus.ccn.ac.uk\Data_Student$\e9poynton\My Documents\Code\commisionratestwo\commisionratestwo\bin\Debug\netcoreapp3.1\commisionratestwo.exe
+\\ccnpcfs01.campus.ccn.ac.uk\Data_Student$\e9poynton\My Documents\Code\commisionratestwo\commisionratestwo\bin\Debug\netcoreapp3.1\commisionratestwo.deps.json
+\\ccnpcfs01.campus.ccn.ac.uk\Data_Student$\e9poynton\My Documents\Code\commisionratestwo\commisionratestwo\bin\Debug\netcoreapp3.1\commisionratestwo.runtimeconfig.json
+\\ccnpcfs01.campus.ccn.ac.uk\Data_Student$\e9poynton\My Documents\Code\commisionratestwo\commisionratestwo\bin\Debug\netcoreapp3.1\commisionratestwo.runtimeconfig.dev.json
+\\ccnpcfs01.campus.ccn.ac.uk\Data_Student$\e9poynton\My Documents\Code\commisionratestwo\commisionratestwo\bin\Debug\netcoreapp3.1\commisionratestwo.dll
+\\ccnpcfs01.campus.ccn.ac.uk\Data_Student$\e9poynton\My Documents\Code\commisionratestwo\commisionratestwo\bin\Debug\netcoreapp3.1\commisionratestwo.pdb
+\\ccnpcfs01.campus.ccn.ac.uk\Data_Student$\e9poynton\My Documents\Code\commisionratestwo\commisionratestwo\obj\Debug\netcoreapp3.1\commisionratestwo.csprojAssemblyReference.cache
+\\ccnpcfs01.campus.ccn.ac.uk\Data_Student$\e9poynton\My Documents\Code\commisionratestwo\commisionratestwo\obj\Debug\netcoreapp3.1\commisionratestwo.AssemblyInfoInputs.cache
+\\ccnpcfs01.campus.ccn.ac.uk\Data_Student$\e9poynton\My Documents\Code\commisionratestwo\commisionratestwo\obj\Debug\netcoreapp3.1\commisionratestwo.AssemblyInfo.cs
+\\ccnpcfs01.campus.ccn.ac.uk\Data_Student$\e9poynton\My Documents\Code\commisionratestwo\commisionratestwo\obj\Debug\netcoreapp3.1\commisionratestwo.csproj.CoreCompileInputs.cache
+\\ccnpcfs01.campus.ccn.ac.uk\Data_Student$\e9poynton\My Documents\Code\commisionratestwo\commisionratestwo\obj\Debug\netcoreapp3.1\commisionratestwo.dll
+\\ccnpcfs01.campus.ccn.ac.uk\Data_Student$\e9poynton\My Documents\Code\commisionratestwo\commisionratestwo\obj\Debug\netcoreapp3.1\commisionratestwo.pdb
+\\ccnpcfs01.campus.ccn.ac.uk\Data_Student$\e9poynton\My Documents\Code\commisionratestwo\commisionratestwo\obj\Debug\netcoreapp3.1\commisionratestwo.genruntimeconfig.cache
